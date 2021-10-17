@@ -5,6 +5,13 @@
 
 package baseline;
 
+/*
+Alphabetizing the contents of a file, or sorting its contents,
+is a great way to get comfortable manipulating a file in your program.
+Create a program that reads in the following list of names from a file called
+`exercise41_input.txt` and sorts the list alphabetically:
+ */
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
